@@ -41,6 +41,10 @@ body {
     gap: 20px;
 }
 
+#equals {
+    background-color: #ec7e56;
+}
+
 .numbers {
     display: flex;
     flex-direction: column;
